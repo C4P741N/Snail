@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+selenium
+# Add debugpy for remote debugging
+debugpy
